@@ -1,0 +1,35 @@
+﻿{
+    "star": {
+        "data": {
+            "1": {
+                "link": "http://people.mtime.com/2100136/",
+                "name": "尼尔·塞西"
+            },
+            "2": {
+                "link": "http://people.mtime.com/898690/",
+                "name": "比尔·默瑞"
+            },
+            "3": {
+                "link": "http://people.mtime.com/924106/",
+                "name": "本·金斯利"
+            },
+            "4": {
+                "link": "http://people.mtime.com/962842/",
+                "name": "伊德瑞斯·艾尔巴"
+            },
+            "m_1": {
+                "link": "http://m.mtime.cn/#!/person/2100136/"
+            },
+            "m_2": {
+                "link": "http://m.mtime.cn/#!/person/898690/"
+            },
+            "m_3": {
+                "link": "http://m.mtime.cn/#!/person/924106/"
+            },
+            "m_4": {
+                "link": "http://m.mtime.cn/#!/person/962842/"
+            }
+        },
+        "showname": "主演"
+    }
+}
